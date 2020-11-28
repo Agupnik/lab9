@@ -1,0 +1,13 @@
+C:\Users\bigbo\Desktop\sortingLab9\bin\Debug\netcoreapp3.1\sortingLab9.exe
+C:\Users\bigbo\Desktop\sortingLab9\bin\Debug\netcoreapp3.1\sortingLab9.deps.json
+C:\Users\bigbo\Desktop\sortingLab9\bin\Debug\netcoreapp3.1\sortingLab9.runtimeconfig.json
+C:\Users\bigbo\Desktop\sortingLab9\bin\Debug\netcoreapp3.1\sortingLab9.runtimeconfig.dev.json
+C:\Users\bigbo\Desktop\sortingLab9\bin\Debug\netcoreapp3.1\sortingLab9.dll
+C:\Users\bigbo\Desktop\sortingLab9\bin\Debug\netcoreapp3.1\sortingLab9.pdb
+C:\Users\bigbo\Desktop\sortingLab9\obj\Debug\netcoreapp3.1\sortingLab9.csprojAssemblyReference.cache
+C:\Users\bigbo\Desktop\sortingLab9\obj\Debug\netcoreapp3.1\sortingLab9.AssemblyInfoInputs.cache
+C:\Users\bigbo\Desktop\sortingLab9\obj\Debug\netcoreapp3.1\sortingLab9.AssemblyInfo.cs
+C:\Users\bigbo\Desktop\sortingLab9\obj\Debug\netcoreapp3.1\sortingLab9.csproj.CoreCompileInputs.cache
+C:\Users\bigbo\Desktop\sortingLab9\obj\Debug\netcoreapp3.1\sortingLab9.dll
+C:\Users\bigbo\Desktop\sortingLab9\obj\Debug\netcoreapp3.1\sortingLab9.pdb
+C:\Users\bigbo\Desktop\sortingLab9\obj\Debug\netcoreapp3.1\sortingLab9.genruntimeconfig.cache
